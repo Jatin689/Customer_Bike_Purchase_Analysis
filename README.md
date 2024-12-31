@@ -1,2 +1,6 @@
 # Customer_Bike_Purchase_Analysis
-Cleaned and analyzed 1,000+ customer records in Excel to identify key factors influencing bike purchases, improving data accuracy by 15%. Developed an interactive Excel dashboard featuring pivot tables and charts, empowering stakeholders to visualize trends and make informed decisions.
+This project demonstrates how Excel can be used for data analysis and visualization. The goal was to analyze customer data to uncover trends influencing bike purchases.
+# Key Features
+•	Cleaned and analyzed 1,000+ customer records, improving data accuracy by 15%.
+•	Developed an interactive dashboard using Excel pivot tables and charts.
+•	Enabled stakeholders to visualize trends and make data-driven decisions.
