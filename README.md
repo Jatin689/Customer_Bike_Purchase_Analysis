@@ -6,3 +6,7 @@ This project demonstrates how Excel can be used for data analysis and visualizat
 •	Developed an interactive dashboard using Excel pivot tables and charts.
 
 •	Enabled stakeholders to visualize trends and make data-driven decisions.
+# Skills and Tools Used
+•	Tools: Microsoft Excel
+•	Skills: Data Cleaning, Data Analysis, Dashboard Design, Pivot Tables, Charts
+
